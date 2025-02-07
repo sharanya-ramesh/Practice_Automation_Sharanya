@@ -1,7 +1,7 @@
 # moneyhub
-Moneyhub Assignment
+Moneyhub Website
 
-UI Assignment 
+UI Acceptance-
 
 1. Navigate to qa-interview-task/ui/javascript/form-validation.js to view the improvements provided. The improvements are added as comments for easier understanding.
 2. Navigate to qa-interview-task/ui/html/form.html to view the file import fix provided. The file path to import form-validation.js was incorrect.
